@@ -1,0 +1,14 @@
+[{
+    "id":1,
+    "name":"Franco",
+    "surname":"Moreno",
+    "age":"24",
+    "mail":"morenofranco77@gmail.com",
+    "posts":[]
+},
+{
+    "id":1,
+    "title":"un titulo",
+    "contents":"Contenido",
+    "userId":1
+}]
